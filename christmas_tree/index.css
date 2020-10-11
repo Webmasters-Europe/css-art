@@ -1,0 +1,60 @@
+
+.crown {
+    clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+    background-color: rgb(43, 150, 70);
+    position: absolute;
+}
+.crown:nth-of-type(1) {
+    height: 70px;
+    width: 100px;
+    top: 100px;
+    left: 100px;
+}
+.crown:nth-of-type(2) {
+    height: 85px;
+    width: 120px;
+    top: 140px;
+    left: 90px;
+}
+.crown:nth-of-type(3) {
+    height: 100px;
+    width: 150px;
+    top: 180px;
+    left: 75px;
+}
+
+.trunk {
+    height: 80px;
+    width: 10px;
+    background-color: rgb(138, 70, 58);
+    position: absolute;
+    top: 260px;
+    left: 145px;
+    z-index: -1;
+}
+
+.gift1 {
+    height: 35px;
+    width: 35px;
+    background-color: rgb(51, 83, 172);
+    top: 305px;
+    left: 102px;
+    position: absolute;
+}
+.gift2 {
+    height: 20px;
+    width: 20px;
+    background-color: rgb(88, 184, 112);
+    top: 320px;
+    left: 148px;
+    position: absolute;
+}
+.gift3 {
+    height: 40px;
+    width: 40px;
+    background-color: rgb(207, 195, 28);
+    top: 300px;
+    left: 150px;
+    z-index: -2;
+    position: absolute;
+}
