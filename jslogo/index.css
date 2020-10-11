@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.logo {
+    position: relative;
+    width: 2em;
+    height: 2em;
+    background-color: #F0DB4F;
+    font-family: Helvetica;
+    font-size: 8em;
+    font-weight: bold;
+    border-radius: 10%;
+}
+
+p {
+    text-align: end;
+    margin-right: 0.2em;
+}
