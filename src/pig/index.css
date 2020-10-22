@@ -2,7 +2,7 @@
     background-color: fuchsia;
     width: 350px;
     height: 350px;
-	  border-radius: 200px;
+    border-radius: 200px;
     position: absolute;
     top: 80px;
     left: 100px;
@@ -14,27 +14,27 @@
 }
 
 .circle-eyes-left {
-  width: 50px;
-  height: 50px;
-  border-radius: 30px;
-  top: 160px;
-  left: 180px;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    top: 160px;
+    left: 180px;
 }
 
 .circle-eyes-right {
-  width: 50px;
-  height: 50px;
-  border-radius: 30px;
-  top: 160px;
-  left: 300px;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    top: 160px;
+    left: 300px;
 }
 
 .circle-eyes-right {
-  width: 50px;
-  height: 50px;
-  border-radius: 30px;
-  top: 160px;
-  left: 300px;
+    width: 50px;
+    height: 50px;
+    border-radius: 30px;
+    top: 160px;
+    left: 300px;
 }
 
 .circle-Nose {
@@ -68,28 +68,28 @@
 }
 
 .mouth {
-  width: 100px;
-  height: 50px;
-  border-radius: 100px / 50px;
-  background-color: maroon;
-  position: absolute;
-  top: 350px;
-  left: 220px;
+    width: 100px;
+    height: 50px;
+    border-radius: 100px / 50px;
+    background-color: maroon;
+    position: absolute;
+    top: 350px;
+    left: 220px;
 }
 
 .triangle-base {
-  width: 0;
-  height: 0;
+    width: 0;
+    height: 0;
 }
 
 .triangle-left {
-  margin: 100 0 0 100px;
-  border-top: 160px solid purple;
-  border-right: 160px solid transparent;
+    margin: 100 0 0 100px;
+    border-top: 160px solid purple;
+    border-right: 160px solid transparent;
 }
 
 .triangle-right {
-  margin: -160 0 0 180px;
-  border-top: 160px solid purple;
-  border-left: 160px solid transparent;
+    margin: -160 0 0 180px;
+    border-top: 160px solid purple;
+    border-left: 160px solid transparent;
 }
